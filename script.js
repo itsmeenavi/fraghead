@@ -1,1 +1,0 @@
-// Future JavaScript code for Fraghead landing page 

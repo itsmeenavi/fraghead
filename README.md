@@ -1,24 +1,20 @@
-# Fraghead Landing Page
+# Fraghead
 
-This repository contains the code for the landing page of Fraghead, a social media application concept for fragrance lovers.
+Welcome to the Fraghead project!
 
-## Project Structure
+This is the future home of a social media application designed specifically for fragrance enthusiasts.
 
-- `index.html`: The main HTML file for the landing page.
-- `style.css`: Contains the CSS styles for the landing page.
-- `script.js`: Intended for future JavaScript functionality.
+## Status
 
-## Description
+🚧 **Coming Soon!** 🚧
 
-A simple, static landing page built with HTML and CSS. It introduces the concept of Fraghead and highlights its potential features.
+The application is currently under development.
 
-## Getting Started
+## Running the Placeholder
 
-1. Clone this repository.
-2. Open the `index.html` file in your web browser.
+This repository currently contains a basic React + Vite + TypeScript placeholder.
 
-## Future Development
+To run it:
 
-- Implement user sign-up functionality.
-- Add more interactive elements using JavaScript.
-- Refine the design and styling.
+1. Install dependencies: `bun install`
+2. Start the development server: `bun run dev`
